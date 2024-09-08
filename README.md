@@ -1,4 +1,5 @@
 # ADS-Bank
+# Aluna: Phaola Paraguai da Paixão Lustosa
 
 Este projeto implementa um sistema simples de gerenciamento de clientes bancários. Ele permite a inserção, listagem, alteração, exclusão de clientes e o gerenciamento de transações bancárias, como depósito, saque e transferência.
 
